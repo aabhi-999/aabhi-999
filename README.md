@@ -4,15 +4,15 @@
 
 ---
 
-## 👨‍💻 About Me  
-- 🔭 Currently working on **Full-Stack Web Development & Problem Solving**  
-- 🌱 Exploring **System Design & Advanced DSA**  
-- 🤝 Open to collaborate on **Open Source & MERN Stack Projects**  
-- 💡 Passionate about building **projects that solve real-world problems**  
+## Intro
+-  Currently working on **Full-Stack Web Development & Problem Solving**  
+-  Exploring **System Design & Advanced DSA**  
+-  Open to collaborate on **Open Source & MERN Stack Projects**  
+-  Passionate about building **projects that solve real-world problems**  
 
 ---
 
-## 🚀 Tech Stack  
+## Tech Stack  
 <p align="center">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
@@ -45,11 +45,8 @@
 ---
 
 ## 📌 Featured Projects  
-- 🚌 [**IBTS – Intelligent Bus Transportation System**](https://github.com/aabhi-999/IBTS)  
+-  [**IBTS – Intelligent Bus Transportation System**](https://github.com/aabhi-999/IBTS)  
    A smart web app for bus ticket booking, live tracking & fare details (similar to IRCTC for buses).  
-
-- ⚡ [**EV + SDV + OTA App**](https://github.com/aabhi-999/EV-SDV-OTA)  
-   Predicts EV battery efficiency, driver behavior analysis & OTA architecture.  
 
 ---
 
