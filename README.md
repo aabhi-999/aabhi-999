@@ -11,18 +11,11 @@
 - I love building projects that solve real-world problems  
 ---
 ## Tech Stack  
-- 💻 C++ (DSA) | Python              
-- ⚛️ React.js | HTML | CSS | JavaScript 
-- 🌐 Node.js | Express.js  
-- 🗄️ MongoDB   
-- 🔧 Git & GitHub  
----
+- C++ (DSA) | Python | React.js | HTML | CSS | JavaScript |Node.js | Express.js| MongoDB | Git & GitHub     
 ## 📊 GitHub Stats  
 
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabhi-999&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabhi-999&layout=compact&theme=tokyonight)  
+![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabhi-999&show_icons=true&theme=tokyonight)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabhi-999&layout=compact&theme=tokyonight)
 
----
 ##  my skills are
 
 <p align="center">
