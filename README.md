@@ -1,6 +1,6 @@
 # Hi, I'm Abhinav Mishra  
 
-**CSE Student** | Problem Solver | Aspiring Software Engineer  
+**CSE Student** | Problem Solver 
 
 ---
 
@@ -9,33 +9,21 @@
 - Exploring **System Design & Advanced DSA**  
 - Open to collaborate on **Open Source & MERN Stack Projects**  
 - I love building projects that solve real-world problems  
-
 ---
-
 ## Tech Stack  
-
-**Languages & Core:**  
-- 💻 C++ (DSA) | Python  
-
-**Frontend:**  
-- ⚛️ React.js | HTML | CSS | JavaScript  
-
-**Backend & Database:**  
+- 💻 C++ (DSA) | Python              
+- ⚛️ React.js | HTML | CSS | JavaScript 
 - 🌐 Node.js | Express.js  
-- 🗄️ MongoDB  
-
-**Tools & Version Control:**  
+- 🗄️ MongoDB   
 - 🔧 Git & GitHub  
-
 ---
-
 ## 📊 GitHub Stats  
 
 ![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabhi-999&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabhi-999&layout=compact&theme=tokyonight)  
 
 ---
-## 🚀 Skill Set  
+##  my skills are
 
 <p align="center">
   <!-- Languages -->
