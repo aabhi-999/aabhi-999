@@ -32,11 +32,7 @@
 
 ---
 
-## 📫 Connect with Me  
-- 📧 Email: **your-email@example.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
+ Connect with me on :-
+ [LinkedIn](https://www.linkedin.com/in/abhinav-mishra-252234329/)   
 
 ---
-
-⭐️ From [aabhi-999](https://github.com/aabhi-999)
