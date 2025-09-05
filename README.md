@@ -1,6 +1,6 @@
-# Hi, I'm Abhinav Mishra 👋  
+# Hi, I'm Abhinav Mishra   
 
-🚀 **CSE Student | Full-Stack Developer | Problem Solver**  
+**CSE Student | Full-Stack Developer | Problem Solver**  
 
 ---
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 📌 Featured Projects  
+##  Featured Projects  
 -  [**IBTS – Intelligent Bus Transportation System**](https://github.com/aabhi-999/IBTS)  
    A smart web app for bus ticket booking, live tracking & fare details (similar to IRCTC for buses).  
 
