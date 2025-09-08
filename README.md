@@ -1,6 +1,6 @@
 # Hi, I'm Abhinav Mishra   
 
-**CSE Student | Full-Stack Developer | Problem Solver**  
+**CSE Student | Full-Stack Developer.
 
 ---
 
