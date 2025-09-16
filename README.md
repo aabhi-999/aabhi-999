@@ -32,7 +32,7 @@ CSE Student | Full-Stack Developer.
 
 ---
 
- Connect with me on :-
+ Connect with me on -->
  [LinkedIn](https://www.linkedin.com/in/abhinav-mishra-252234329/)   
 
 ---
