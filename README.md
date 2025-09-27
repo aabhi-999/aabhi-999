@@ -9,7 +9,7 @@ CSE Student | Full-Stack Developer.
 -  Exploring **System Design & Advanced DSA**  
 -  Open to collaborate on **Open Source & MERN Stack Projects**    
 -  Passionate about building **projects that solve real-world problems** 
-
+  
 ---
 
 ## Tech Stack  
