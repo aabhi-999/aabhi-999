@@ -4,7 +4,7 @@ CSE Student | Full-Stack Developer.
 
 ---     
      
-## Intro
+## Intro   
 -  Currently working on **Full-Stack Web Development & Problem Solving**    
 -  Exploring **System Design & Advanced DSA**  
 -  Open to collaborate on **Open Source & MERN Stack Projects**    
