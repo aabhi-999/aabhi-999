@@ -11,7 +11,7 @@ CSE Student | Full-Stack Developer.
 -  Open to collaborate on **Open Source & MERN Stack Projects**    
 -  Passionate about building **projects that solve real-world problems**  
   
----
+--- 
 
 ## Tech Stack  
 <p align="left">
