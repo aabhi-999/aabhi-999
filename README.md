@@ -30,8 +30,8 @@ CSE Student |  Software Developer .
 ---
 
 ##  Featured Projects 
--   [My-Portfolio](https://myportfolio-pi-sepia-65.vercel.app/)
--  [**IBTS – Intelligent Bus Transportation System**](https://github.com/aabhi-999/IBTS)  
+-   [My-Portfolio](https://portfolio-web-rose-beta.vercel.app/)
+-  [**IBTS – Intelligent Bus Transportation System**](https://github.com/your-username/ibts.git)  
    A smart web app for bus ticket booking, live tracking & fare details for Uttar Pradesh Road ways system (similar to IRCTC for buses).  
 ---
 
