@@ -14,7 +14,7 @@ CSE Student |  Software Developer .
 --- 
 ## Tech Stack  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  
@@ -31,7 +31,7 @@ CSE Student |  Software Developer .
 
 ##  Featured Projects 
 -   [My-Portfolio](https://portfolio-web-rose-beta.vercel.app/)
--  [**IBTS – Intelligent Bus Transportation System**](https://github.com/your-username/ibts.git)  
+-  [**IBTS – Intelligent Bus Transportation System**](https://github.com/aabhi-999/abhi_IBTS)  
    A smart web app for bus ticket booking, live tracking & fare details for Uttar Pradesh Road ways system (similar to IRCTC for buses).  
 ---
 
